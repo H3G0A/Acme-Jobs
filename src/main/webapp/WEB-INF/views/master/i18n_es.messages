@@ -10,15 +10,13 @@
 
 # master.banner.welcome #######################################################
 
-master.banner.background = #FFE97F 
+master.banner.background = #000000 
 
 ﻿# master.welcome ##############################################################
 
-master.welcome.title = ¡Bienvenidos!
+master.welcome.title = ¡Bienvenidos a Acme One!
 master.welcome.text = \
-	Bienvenidos a Acme Stater!  Nunca antes ha sido tan sencillo desarrollar un \
-	proyecto y hacerlo funcionar.
-
+	Bienvenidos a Acme One! Nuestro primer proyecto para la Asignatura DP2.
 # master.menu #################################################################
 
 master.menu.home = Inicio
@@ -73,15 +71,15 @@ master.footer.label.spanish = Español
 
 # master.company ##############################################################
 
-master.company.title = La compañía
+master.company.title = Acme
 master.company.text = \
-	Starter Project, Inc. es una compañía fictícia que proporciona un proyecto \
-	plantilla para los estudiantes de la asignatura Diseño y Pruebas, en el Grado \
+	Acme, Inc. es una compañía fictícia creada como proyecto de \
+	universidad para la asignatura Diseño y Pruebas, en el Grado \
 	en Ingeniería del Software de la Universidad de Sevilla.
-master.company.name = Starter Project, Inc.
-master.company.address = Calle, número, Ciudad, Estado, País
-master.company.phone = +000 123 456
-master.company.email = contact@acme.com
+master.company.name = Acme, Inc.
+master.company.address = Calle Manzana, 69, Sevilla, Andalucía, España
+master.company.phone = +34 656 254 395
+master.company.email = AcmeProjects@acme.com
 
 # master.license ##############################################################
 
