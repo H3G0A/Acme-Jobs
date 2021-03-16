@@ -22,6 +22,7 @@
 			<acme:menu-suboption code="Hegoa Ria's link" action="https://www.youtube.com/watch?v=dQw4w9WgXcQ"/>
 			<acme:menu-suboption code="Garcia's link" action="https://www.youtube.com/watch?v=tPEE9ZwTmy0&ab_channel=hiddentracktv2"/>
 			<acme:menu-suboption code="Ramos' link" action="https://www.youtube.com/watch?v=nuCIA31LfIU"/>
+			<acme:menu-suboption code="Fernando Alonso's link" action="https://www.youtube.com/watch?v=vvH04rcXPc"/>
 		</acme:menu-option>
 
 		<acme:menu-option code="master.menu.administrator" access="hasRole('Administrator')">
